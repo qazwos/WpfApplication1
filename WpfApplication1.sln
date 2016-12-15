@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{BC7239D3-DB90-4731-9A21-F025B41D2DF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMVVM", "..\..\..\..\Desktop\Desktop\新建文件夹 (8)\编程\C#\框架\TestArea-master\MVVMTest\MyMVVM\MyMVVM.csproj", "{8A25877B-C0DF-48EA-853C-DBA315343A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBindingTest", "..\..\..\..\Desktop\Desktop\新建文件夹 (8)\编程\C#\框架\TestArea-master\MVVMTest\EventBindingTest\EventBindingTest.csproj", "{E3CE81A2-A8FC-46B0-A306-83E04DAC13A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication2", "WpfApplication2\WpfApplication2.csproj", "{C1F945E6-2DDB-4FAF-A865-C36694F2DE21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BC7239D3-DB90-4731-9A21-F025B41D2DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC7239D3-DB90-4731-9A21-F025B41D2DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC7239D3-DB90-4731-9A21-F025B41D2DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC7239D3-DB90-4731-9A21-F025B41D2DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A25877B-C0DF-48EA-853C-DBA315343A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A25877B-C0DF-48EA-853C-DBA315343A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A25877B-C0DF-48EA-853C-DBA315343A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A25877B-C0DF-48EA-853C-DBA315343A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CE81A2-A8FC-46B0-A306-83E04DAC13A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CE81A2-A8FC-46B0-A306-83E04DAC13A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CE81A2-A8FC-46B0-A306-83E04DAC13A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CE81A2-A8FC-46B0-A306-83E04DAC13A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F945E6-2DDB-4FAF-A865-C36694F2DE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F945E6-2DDB-4FAF-A865-C36694F2DE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F945E6-2DDB-4FAF-A865-C36694F2DE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F945E6-2DDB-4FAF-A865-C36694F2DE21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
